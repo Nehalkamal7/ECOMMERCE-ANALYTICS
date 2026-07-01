@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Ecommerce_Analytics_Final1** is a data-driven platform designed to provide **customer insights, segmentation, and predictive modeling** for e-commerce businesses.  
+**Ecommerce_Analytics** is a data-driven platform designed to provide **customer insights, segmentation, and predictive modeling** for e-commerce businesses.  
 
 The system addresses major challenges such as:  
 - Difficulty in understanding customer behavior  
